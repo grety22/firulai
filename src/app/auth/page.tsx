@@ -61,7 +61,7 @@ const LoginPage = () => {
           Protected Page
         </h2>
         <p className="text-gray-500 my-4 text-center font-medium">
-          Please enter the password to continue.
+          Please enter the password to continue. <i>hint: 123</i>
         </p>
         <form onSubmit={handleSubmit} noValidate className="flex flex-col">
           <input

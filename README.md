@@ -1,8 +1,9 @@
-# 🎨 Gradient Explorer
+# 🎨 NEXT + TAILWINDCSS + PASS PROTECTION ROUTE
 
 A sleek, responsive, and interactive gradient playground built with **Next.js** and **Tailwind CSS**. Switch between gradient vibes, preview live styles, and copy Tailwind classes instantly.
 
-![Gradient Explorer Demo](https://firulai-dusky.vercel.app/)
+🔗 **Live Demo**: [Gradient Explorer Demo](https://firulai-dusky.vercel.app/)
+
 
 ## 🚀 Features
 
@@ -23,5 +24,3 @@ A sleek, responsive, and interactive gradient playground built with **Next.js** 
 | Next.js       | `15.3.1`   |
 | Tailwind CSS  | `4.1.4`    |
 | TypeScript    | `^5.x`     |
-| Radix Icons   | latest     |
-| Heroicons     | latest     |
